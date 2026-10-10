@@ -1,0 +1,21 @@
+{
+    "schemaVersion": 1,
+    "id": "digduelmod",
+    "version": "1.0.0",
+    "name": "DigDuel Mod",
+    "description": "A 1v1 mining challenge mod",
+    "authors": ["giuseppegioliffi91"],
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.giuseppegioliffi91.digduelmod.DigDuelMod"
+        ]
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.14.0",
+        "minecraft": "1.21.1",
+        "fabric-api": "*"
+    }
+}

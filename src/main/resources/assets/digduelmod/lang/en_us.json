@@ -1,0 +1,11 @@
+{
+    "block.digduelmod.tier0_shard_block": "Tier 0 Shard Block",
+    "block.digduelmod.tier1_crystal_block": "Tier 1 Crystal Block",
+    "block.digduelmod.tier2_core_block": "Tier 2 Core Block",
+    "block.digduelmod.tier3_star_block": "Tier 3 Star Block",
+    "block.digduelmod.victory_block": "Victory Block",
+    "item.digduelmod.tier0_pickaxe": "Tier 0 Pickaxe",
+    "item.digduelmod.tier1_pickaxe": "Tier 1 Pickaxe",
+    "item.digduelmod.tier2_pickaxe": "Tier 2 Pickaxe",
+    "item.digduelmod.tier3_pickaxe": "Tier 3 Pickaxe"
+}
